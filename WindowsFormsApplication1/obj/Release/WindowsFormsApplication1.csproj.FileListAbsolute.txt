@@ -1,0 +1,16 @@
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.add_new_course.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.add_new_student.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Admin.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.check_out_our_results.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.register_for_new_course.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.reports.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Start.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Student.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.SignIn.resources

@@ -1,0 +1,27 @@
+J:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.check_out_our_results.resources
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.register_for_new_course.resources
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student.resources
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+J:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.add_new_course.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.add_new_student.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Admin.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.check_out_our_results.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.register_for_new_course.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.reports.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Start.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SignIn.resources
+C:\Users\nvidia\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.add_new_mark.resources
